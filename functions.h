@@ -1,7 +1,6 @@
 //
 // Created by palma on 8/30/2023.
 //
-
 #ifndef INTRODUCTION_FUNCTIONS_H
 #define INTRODUCTION_FUNCTIONS_H
 
